@@ -11,33 +11,7 @@ A modern task manager web application built with HTML, CSS, and JavaScript, feat
 - **Delete Tasks**: Remove tasks from the list.
 - **Task Counter**: Displays the total number of tasks and how many are completed.
 
-### Stylish Design
-- **Responsive Layout**: The application is designed to look great on both desktop and mobile devices.
-- **Animated Gradient Header**: The header features a beautiful animated gradient background for a modern look.
-- **Bootstrap and Tailwind CSS**: Utilizes popular CSS frameworks for styling.
-- **Custom Styling**: Includes custom styles for a polished appearance.
-
 ## Getting Started
-
-### Prerequisites
-- Make sure you have a web browser installed (Chrome, Firefox, Edge, etc.).
-- Optionally, you can use a local server (e.g., XAMPP, WAMP, or VS Code Live Server extension) for a better experience.
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/bhargavtz/task-manager.git
-   ```
-2. **Navigate to the project folder:**
-   ```bash
-   cd task-manager
-   ```
-3. **Open the `index.html` file in your preferred web browser:**
-   ```bash
-   start index.html
-   ```
-   Or you can open it manually from the file explorer.
 
 ## Usage
 
@@ -59,15 +33,9 @@ A modern task manager web application built with HTML, CSS, and JavaScript, feat
 
 ## Technologies Used
 - **HTML**: For structuring the content.
-- **CSS**: For styling the application, including Bootstrap and Tailwind CSS.
+- **CSS**: For styling the application.
 - **JavaScript**: For dynamic functionalities such as adding, editing, and deleting tasks.
 
-## Screenshots
-![Task Manager Screenshot](https://i.ibb.co/nwkvsGB/Screenshot-199.png)
-> A screenshot showing the main interface of the Task Manager application.
-
-## Animated Gradient Header
-- The header features an animated gradient that transitions smoothly between colors, providing a visually appealing effect.
 
 ## Folder Structure
 ```
@@ -77,10 +45,3 @@ task-manager/
 ├── styles.css        # Custom CSS file for additional styling
 └── README.md         # Documentation
 ```
-
-## Credits
-- Icons and design elements are created using [Bootstrap](https://getbootstrap.com) and [Tailwind CSS](https://tailwindcss.com).
-- User @bhargavtz for the original concept and project structure.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
